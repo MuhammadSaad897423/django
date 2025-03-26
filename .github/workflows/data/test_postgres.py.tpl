@@ -19,6 +19,7 @@ DATABASES = {
         "NAME": "django2",
         "PASSWORD": "postgres",
         "HOST": "localhost",
-        "PORT": 5432,
+              "ENGINE": "django.db.backends.postgresql",
     },
 }
+        "ENGINE": "django.db.backends.postgresql.updated",
